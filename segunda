@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-BR>
+<head>
+  <meta charset="UFT-8">
+  <title> Primeira página GitHub Pages</title>
+</head>
+
+<body>
+  <h1>Segunda Página</h1>
+  <p>Agora usaremos um link para chegar até aqui</p>
+  <a href="index.html">Ir para início</a>
+ </body>
+ </html>
